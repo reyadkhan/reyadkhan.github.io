@@ -1,1 +1,1 @@
-<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+<embed src="https://reyadkhan.github.io/reyad-resume.pdf" type="application/pdf" />
