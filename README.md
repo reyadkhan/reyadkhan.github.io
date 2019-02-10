@@ -1,1 +1,1 @@
-[get the PDF](/reyad-resume.pdf)
+(/reyad-resume.pdf)
